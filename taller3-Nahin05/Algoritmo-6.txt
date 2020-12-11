@@ -1,0 +1,6 @@
+1.Inicio
+2.Se pide datos de la perona la cual tiene el numero de telefono 
+3.Va a calcular cuantos minutos habla por el telefono durante todo el mes
+4.Presenta el pantalla los minutos que habla en todo el mes  
+5.Se presenta la plantilla del telefono de casa con el costo a pagar mas los munitos que hablo por todo el mes
+6.fin:

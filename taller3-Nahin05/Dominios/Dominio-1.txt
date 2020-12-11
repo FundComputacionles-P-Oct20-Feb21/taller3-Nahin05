@@ -1,0 +1,10 @@
+          Ejercicio 1
+X(10){a - z}
+          Ejercicio 2
+x(n)[(2-7)[{i-u}] 
+          Ejercicio 3
+i[{21,23,25....33},!¨{23}]
+          Ejercicio 4
+i[{10 - 200}!(50,53,54......60)]
+          Ejercicio 5
+x(20)[{a-z},{A,B,D,E,F}{BS}]

@@ -1,0 +1,8 @@
+1. Inicio 
+2.Se calcula el valos de CPU
+3.Se calcula el valos de teclado
+4.Se calcula el valos de pantalla
+5.Se calcula el valos de raton
+6.Se calcula el valor de los 4 poductos 
+7.Se muestra en pantalla el valor a pagar
+8.Fin

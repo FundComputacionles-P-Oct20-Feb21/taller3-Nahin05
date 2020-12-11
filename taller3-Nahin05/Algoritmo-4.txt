@@ -1,0 +1,5 @@
+1.Inicio
+2.Se muestra la tablas de multiplicar de cada numero que ingrese
+3.La tabla de va a prensentar solo los numeros que esten drentro del dos  y seis 
+4.Cualquier otro numero que este fuera de este margen sera erroneo y saltara error 
+Fin.

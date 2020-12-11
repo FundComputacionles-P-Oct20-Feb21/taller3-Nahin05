@@ -1,0 +1,8 @@
+1.Inicio 
+2.Se va a pedir la base de los gastos de cada hijo
+3.Se va a perdir los gastos del primer hijo 
+4.Se va a perdir los gastos del segundo hijo 
+5.Se va a perdir los gastos del tercer hijo 
+6.Se calcula el costo de cada uno de los hijos
+7.Se muertra el total de gastos de los 3 hijos al padre de familia 
+8. Fin 

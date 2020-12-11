@@ -1,0 +1,9 @@
+1.Inicio 
+2.Se presenta en pantalla Los datos de la persona junto a sus servicios diguitales a pagar
+3.Netflix
+4.Youtube premium 
+5.Dropbox
+6.Spotify
+7. Si la perona al llenar sus datos y respresenta que es menor que 30 años se se le añade un descuento del 20% de todas sus reses usadas en el mes  
+8.Se presenta en pantalla el valor a pagar 
+9.Fin

@@ -1,0 +1,5 @@
+1.Inicio
+2.Se ingresan los datos de la persona que procede a pagar la planilla 
+3.El sistema va a reconoser si el valor a pagar o el costo es por kilovatio/Hora y el numero de kilovatio que a usado en el mes
+4.El usuario llenando sus datos de identifica si es mayor a 65 añor automaticamente se le procede a dar un descuento del 10%
+5.Fin
